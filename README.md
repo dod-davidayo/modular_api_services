@@ -1,3 +1,32 @@
+# AI-Assisted Development & Prompt Engineering
+These projects were developed using AI-assisted engineering techniques. I applied prompt engineering strategies to collaborate with ChatGPT in order to design, architect, and implement the backend systems.
+
+The goal was not to generate code blindly, but to use AI as a technical co-pilot to accelerate development while maintaining strong backend engineering practices.
+
+# How Prompt Engineering Was Used
+
+During development, structured prompts were used to guide the AI in producing production-ready backend patterns. Prompts focused on specific backend engineering tasks such as:
+
+1) Designing scalable folder architectures
+
+2) Implementing configuration management
+
+3) Creating API endpoints
+
+4) Structuring service layers
+
+5) Handling file uploads and storage patterns
+
+6) Applying dependency injection patterns
+
+Example prompt used during development:
+
+Design a production-ready Python backend template using FastAPI
+that includes modular folder architecture, configuration management,
+logging, dependency injection, and service-layer based architecture.
+
+The AI-generated suggestions were then: Reviewed, Refactored, Integrated into the project architecture, This workflow helped accelerate development while maintaining clean code standards and maintainable architecture.
+
 # Python Backend Engineering Projects
 
 This repository contains backend engineering projects built to develop strong expertise in **backend architecture, scalable API design, and production-ready Python services**.
